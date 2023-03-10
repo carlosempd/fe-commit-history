@@ -16,8 +16,9 @@ It is IMPORTANT to mention that in order for this frontend project to work prope
 Please follow this steps in order to run the project;
 
 1- Clone or Download this project. In a terminal run `git clone https://github.com/carlosempd/fe-commit-history.git`.
+    (Install [git](https://git-scm.com/downloads) in case you haven't installed it yet).
 
-2- In the terminal navigate to the project. For example: `cd fe-commit-history `. 
+2- In the terminal navigate to the project folder. For example: `cd fe-commit-history `. 
 
 3- Install node modules using `npm install`.  
 
